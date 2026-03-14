@@ -1,4 +1,4 @@
-<h1 align="center">💀 REXE OSINT TOOL v2</h1>
+<h1 align="center">💀 REXE OSINT TOOL v2 COMMING SOON</h1>
 <h3 align="center">Advanced Free OSINT Framework | By REXE CODER</h3>
 
 <p align="center">
