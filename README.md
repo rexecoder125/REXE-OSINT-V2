@@ -64,8 +64,9 @@ python rexe.py
 ▶️ Run Tool
 Bash
 python rexe.py
-🖥 Screenshots
-(এখানে Screenshot Add করো)
+
+
+
 🌐 Join Telegram Channel
 🔥 Latest Updates • OSINT Tools • Premium Scripts
 👉 https://t.me/+T2pL8KKOu8pmOGZl⁠�
